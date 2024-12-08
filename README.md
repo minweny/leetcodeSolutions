@@ -1,4 +1,4 @@
 # leetcodeSolutions
 
-## useful website
+## useful websites
 frequency check, https://leetracer.com/screener
