@@ -6,7 +6,7 @@ Chrome extension, Leet Xt
 
 ## Problems Checklist
 - [x] 23. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - Hard (55.3%)
-- [ ] 10. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) - Hard (28.8%)
+- [x] 10. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) - Hard (28.8%)
 - [ ] 31. [Next Permutation](https://leetcode.com/problems/next-permutation/) - Medium (42.0%)
 - [ ] 29. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) - Medium (18.0%)
 - [ ] 50. [Pow(x n)](https://leetcode.com/problems/powx-n/) - Medium (36.2%)
