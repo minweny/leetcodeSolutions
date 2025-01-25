@@ -9,7 +9,7 @@ Chrome extension, Leet Xt
 - [x] 10. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) - Hard (28.8%)
 - [x] 31. [Next Permutation](https://leetcode.com/problems/next-permutation/) - Medium (42.0%)
 - [x] 29. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) - Medium (18.0%)
-- [ ] 50. [Pow(x n)](https://leetcode.com/problems/powx-n/) - Medium (36.2%)
+- [x] 50. [Pow(x n)](https://leetcode.com/problems/powx-n/) - Medium (36.2%)
 - [ ] 15. [3Sum](https://leetcode.com/problems/3sum/) - Medium (36.1%)
 - [ ] 42. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - Hard (63.9%)
 - [ ] 34. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Medium (45.9%)
