@@ -14,7 +14,7 @@ Chrome extension, Leet Xt
 - [x] 42. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - Hard (63.9%)
 - [x] 34. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Medium (45.9%)
 - [x] 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium (62.7%)
-- [ ] 43. [Multiply Strings](https://leetcode.com/problems/multiply-strings/) - Medium (41.6%)
+- [x] 43. [Multiply Strings](https://leetcode.com/problems/multiply-strings/) - Medium (41.6%)
 - [ ] 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy (54.7%)
 - [ ] 33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Medium (42.1%)
 - [ ] 8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - Medium (18.5%)
