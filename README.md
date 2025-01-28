@@ -18,7 +18,7 @@ Chrome extension, Leet Xt
 - [x] 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy (54.7%)
 - [x] 33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Medium (42.1%)
 - [x] 8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - Medium (18.5%)
-- [ ] 32. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) - Hard (35.4%)
+- [x] 32. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) - Hard (35.4%)
 - [ ] 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Easy (41.6%)
 - [ ] 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium (36.1%)
 - [ ] 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium (45.1%)
