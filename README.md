@@ -23,7 +23,7 @@ Chrome extension, Leet Xt
 - [x] 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium (36.1%)
 - [x] 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium (45.1%)
 - [x] 16. [3Sum Closest](https://leetcode.com/problems/3sum-closest/) - Medium (46.4%)
-- [ ] 38. [Count and Say](https://leetcode.com/problems/count-and-say/) - Medium (57.5%)
+- [x] 38. [Count and Say](https://leetcode.com/problems/count-and-say/) - Medium (57.5%)
 - [ ] 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - Medium (76.2%)
 - [ ] 13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - Easy (63.8%)
 - [ ] 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - Hard (42.5%)
