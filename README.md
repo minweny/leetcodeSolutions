@@ -21,7 +21,7 @@ Chrome extension, Leet Xt
 - [x] 32. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) - Hard (35.4%)
 - [x] 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Easy (41.6%)
 - [x] 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium (36.1%)
-- [ ] 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium (45.1%)
+- [x] 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium (45.1%)
 - [ ] 16. [3Sum Closest](https://leetcode.com/problems/3sum-closest/) - Medium (46.4%)
 - [ ] 38. [Count and Say](https://leetcode.com/problems/count-and-say/) - Medium (57.5%)
 - [ ] 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - Medium (76.2%)
