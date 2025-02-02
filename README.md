@@ -29,7 +29,7 @@ Chrome extension, Leet Xt
 - [x] 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - Hard (42.5%)
 - [x] 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium (35.1%)
 - [x] 39. [Combination Sum](https://leetcode.com/problems/combination-sum/) - Medium (73.6%)
-- [ ] 51. [N-Queens](https://leetcode.com/problems/n-queens/) - Hard (71.2%)
+- [x] 51. [N-Queens](https://leetcode.com/problems/n-queens/) - Hard (71.2%)
 - [ ] 46. [Permutations](https://leetcode.com/problems/permutations/) - Medium (79.9%)
 - [ ] 19. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - Medium (47.7%)
 - [ ] 49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Medium (70.1%)
