@@ -34,7 +34,7 @@ Chrome extension, Leet Xt
 - [x] 19. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - Medium (47.7%)
 - [x] 49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Medium (70.1%)
 - [x] 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy (66.0%)
-- [ ] 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - Hard (29.1%)
+- [x] 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - Hard (29.1%)
 - [ ] 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy (44.6%)
 - [ ] 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium (56.9%)
 - [ ] 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) - Medium (66.2%)
