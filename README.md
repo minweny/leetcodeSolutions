@@ -35,7 +35,7 @@ Chrome extension, Leet Xt
 - [x] 49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Medium (70.1%)
 - [x] 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy (66.0%)
 - [x] 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - Hard (29.1%)
-- [ ] 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy (44.6%)
+- [x] 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy (44.6%)
 - [ ] 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium (56.9%)
 - [ ] 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) - Medium (66.2%)
 - [ ] 25. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Hard (61.6%)
