@@ -40,7 +40,7 @@ Chrome extension, Leet Xt
 - [x] 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) - Medium (66.2%)
 - [x] 25. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Hard (61.6%)
 - [x] 18. [4Sum](https://leetcode.com/problems/4sum/) - Medium (37.3%)
-- [ ] 41. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) - Hard (40.4%)
+- [x] 41. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) - Hard (40.4%)
 - [ ] 48. [Rotate Image](https://leetcode.com/problems/rotate-image/) - Medium (76.8%)
 - [ ] 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Easy (59.0%)
 - [ ] 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) - Medium (29.7%)
