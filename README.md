@@ -44,7 +44,7 @@ Chrome extension, Leet Xt
 - [x] 48. [Rotate Image](https://leetcode.com/problems/rotate-image/) - Medium (76.8%)
 - [x] 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Easy (59.0%)
 - [x] 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) - Medium (29.7%)
-- [ ] 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - Medium (44.2%)
+- [x] 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - Medium (44.2%)
 - [ ] 37. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) - Hard (63.6%)
 - [ ] 30. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) - Hard (32.7%)
 - [ ] 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Medium (61.4%)
