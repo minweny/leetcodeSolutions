@@ -48,7 +48,7 @@ Chrome extension, Leet Xt
 - [x] 37. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) - Hard (63.6%)
 - [x] 30. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) - Hard (32.7%)
 - [x] 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Medium (61.4%)
-- [ ] 12. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) - Medium (67.4%)
+- [x] 12. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) - Medium (67.4%)
 - [ ] 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium (57.0%)
 - [ ] 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) - Medium (50.4%)
 - [ ] 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/) - Medium (41.0%)
