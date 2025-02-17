@@ -51,7 +51,7 @@ Chrome extension, Leet Xt
 - [x] 12. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) - Medium (67.4%)
 - [x] 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium (57.0%)
 - [x] 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) - Medium (50.4%)
-- [ ] 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/) - Medium (41.0%)
+- [x] 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/) - Medium (41.0%)
 - [ ] 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy (58.3%)
 - [ ] 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - Easy (48.0%)
 - [ ] 27. [Remove Element](https://leetcode.com/problems/remove-element/) - Easy (59.1%)
