@@ -1,7 +1,7 @@
 | Check | Title                                | Solution  | Acceptance | Difficulty |
 |-------|--------------------------------------|-----------|------------|------------|
-| [ ]   | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) |           | 44.3%      | Medium     |
-| [ ]   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |           | 76.4%      | Medium     |
+| [x]   | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) |           | 44.3%      | Medium     |
+| [x]   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |           | 76.4%      | Medium     |
 | [ ]   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) |           | 70.3%      | Medium     |
 | [ ]   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |           | 55.7%      | Hard       |
 | [ ]   | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |           | 48.7%      | Medium     |
