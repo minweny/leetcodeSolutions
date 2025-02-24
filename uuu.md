@@ -1,7 +1,7 @@
 | Check | Title | Solution | Acceptance | Difficulty | Frequency |
 |-------|-------|----------|------------|------------|-----------|
 | [x]   | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 48.8% | Medium | 1 |
-| [ ]   | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 55.0% | Easy | 2 |
+| [x]   | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 55.0% | Easy | 2 |
 | [ ]   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 64.2% | Hard | 3 |
 | [ ]   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 61.6% | Medium | 4 |
 | [ ]   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 63.0% | Medium | 5 |
