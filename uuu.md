@@ -4,8 +4,8 @@
 | [x]   | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 55.0% | Easy | 2 |
 | [x]   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 64.2% | Hard | 3 |
 | [x]   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 61.6% | Medium | 4 |
-| [ ]   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 63.0% | Medium | 5 |
-| [ ]   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 45.4% | Medium | 6 |
+| [x]   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 63.0% | Medium | 5 |
+| [x]   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 45.4% | Medium | 6 |
 | [ ]   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 76.5% | Medium | 7 |
 | [ ]   | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 28.9% | Hard | 8 |
 | [ ]   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 42.8% | Hard | 9 |
