@@ -6,7 +6,7 @@
 | [x]   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 61.6% | Medium | 4 |
 | [x]   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 63.0% | Medium | 5 |
 | [x]   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 45.4% | Medium | 6 |
-| [ ]   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 76.5% | Medium | 7 |
+| [x]   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 76.5% | Medium | 7 |
 | [ ]   | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 28.9% | Hard | 8 |
 | [ ]   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 42.8% | Hard | 9 |
 | [ ]   | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 46.1% | Medium | 10 |
