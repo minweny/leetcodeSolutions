@@ -30,6 +30,11 @@ def binarySearchLeftInsert(nums, target):
     return left
 
 ```
+# why it's right = mid, not right = mid - 1? Here is the corner case
+nums =
+[5,7,7,8,8,10]
+target =
+8
 
 # Right Insert
 ```
