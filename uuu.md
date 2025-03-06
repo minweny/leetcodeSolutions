@@ -13,7 +13,7 @@
 | [x]   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 70.3% | Medium | 11 |
 | [x]   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 36.3% | Medium | 12 |
 | [x]   | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 51.7% | Medium | 13 |
-| [ ]   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 55.7% | Hard | 14 |
+| [x]   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 55.7% | Hard | 14 |
 | [ ]   | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 42.3% | Medium | 15 |
 | [ ]   | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 64.1% | Easy | 16 |
 | [ ]   | [15. 3Sum](https://leetcode.com/problems/3sum/) | 36.4% | Medium | 17 |
