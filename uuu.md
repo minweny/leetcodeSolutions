@@ -11,7 +11,7 @@
 | [x]   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 42.8% | Hard | 9 |
 | [x]   | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 46.1% | Medium | 10 |
 | [x]   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 70.3% | Medium | 11 |
-| [ ]   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 36.3% | Medium | 12 |
+| [x]   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 36.3% | Medium | 12 |
 | [ ]   | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 51.7% | Medium | 13 |
 | [ ]   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 55.7% | Hard | 14 |
 | [ ]   | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 42.3% | Medium | 15 |
