@@ -38,15 +38,89 @@
 | [ ]   | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 66.4% | Medium | 36 |
 | [ ]   | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 18.1% | Medium | 37 |
 | [ ]   | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 57.2% | Medium | 38 |
-| [ ]   | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 61.9% | Hard | 39 |
-| [ ]   | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 44.4% | Medium | 40 |
-| [ ]   | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 36.4% | Medium | 41 |
-| [ ]   | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 18.7% | Medium | 42 |
-| [ ]   | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 58.6% | Easy | 43 |
-| [ ]   | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 59.3% | Easy | 44 |
-| [ ]   | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 41.1% | Medium | 45 |
-| [ ]   | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 48.3% | Easy | 46 |
-| [ ]   | [18. 4Sum](https://leetcode.com/problems/4sum/) | 37.5% | Medium | 47 |
-| [ ]   | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 39.1% | Medium | 48 |
-| [ ]   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 48.0% | Medium | 49 |
-| [ ]   | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 59.4% | Easy | 50 |
+
+Page 2
+- [ ] 68. [Text Justification](https://leetcode.com/problems/text-justification/) - **Hard** (47.1%)
+- [ ] 79. [Word Search](https://leetcode.com/problems/word-search/) - **Medium** (44.6%)
+- [ ] 126. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) - **Hard** (27.1%)
+- [ ] 127. [Word Ladder](https://leetcode.com/problems/word-ladder/) - **Hard** (41.8%)
+- [ ] 91. [Decode Ways](https://leetcode.com/problems/decode-ways/) - **Medium** (36.1%)
+- [ ] 76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) - **Hard** (44.7%)
+- [ ] 97. [Interleaving String](https://leetcode.com/problems/interleaving-string/) - **Medium** (41.4%)
+- [ ] 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) - **Medium** (61.2%)
+- [ ] 130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - **Medium** (42.0%)
+- [ ] 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **Easy** (54.8%)
+- [ ] 131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - **Medium** (71.4%)
+- [ ] 128. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - **Medium** (47.2%)
+- [ ] 64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) - **Medium** (65.8%)
+- [ ] 118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - **Easy** (76.4%)
+- [ ] 78. [Subsets](https://leetcode.com/problems/subsets/) - **Medium** (80.3%)
+- [ ] 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - **Easy** (53.3%)
+- [ ] 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - **Easy** (58.6%)
+- [ ] 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) - **Easy** (40.0%)
+- [ ] 124. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - **Hard** (40.9%)
+- [ ] 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **Medium** (51.8%)
+- [ ] 122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - **Medium** (68.8%)
+- [ ] 102. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - **Medium** (69.8%)
+- [ ] 134. [Gas Station](https://leetcode.com/problems/gas-station/) - **Medium** (46.0%)
+- [ ] 75. [Sort Colors](https://leetcode.com/problems/sort-colors/) - **Medium** (66.4%)
+
+Page 3
+- [ ] 212. [Word Search II](https://leetcode.com/problems/word-search-ii/) - **Hard** (37.0%)
+- [ ] 174. [Dungeon Game](https://leetcode.com/problems/dungeon-game/) - **Hard** (39.1%)
+- [ ] 146. [LRU Cache](https://leetcode.com/problems/lru-cache/) - **Medium** (44.4%)
+- [ ] 200. [Number of Islands](https://leetcode.com/problems/number-of-islands/) - **Medium** (61.6%)
+- [ ] 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) - **Medium** (45.3%)
+- [ ] 218. [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) - **Hard** (43.6%)
+- [ ] 224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/) - **Hard** (44.8%)
+- [ ] 139. [Word Break](https://leetcode.com/problems/word-break/) - **Medium** (47.9%)
+- [ ] 140. [Word Break II](https://leetcode.com/problems/word-break-ii/) - **Hard** (52.9%)
+- [ ] 239. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - **Hard** (47.2%)
+- [ ] 149. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) - **Hard** (28.4%)
+- [ ] 173. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) - **Medium** (74.2%)
+- [ ] 230. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - **Medium** (74.7%)
+- [ ] 238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - **Medium** (67.4%)
+- [ ] 210. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - **Medium** (52.6%)
+- [ ] 161. [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) - **Medium** (34.4%)
+- [ ] 221. [Maximal Square](https://leetcode.com/problems/maximal-square/) - **Medium** (48.2%)
+- [ ] 207. [Course Schedule](https://leetcode.com/problems/course-schedule/) - **Medium** (48.5%)
+- [ ] 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) - **Medium** (46.3%)
+- [ ] 208. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - **Medium** (67.4%)
+- [ ] 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) - **Hard** (40.3%)
+- [ ] 179. [Largest Number](https://leetcode.com/problems/largest-number/) - **Medium** (40.9%)
+- [ ] 211. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) - **Medium** (46.7%)
+- [ ] 233. [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) - **Hard** (35.5%)
+- [ ] 215. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - **Medium** (67.6%)
+- [ ] 186. [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) - **Medium** (55.8%)
+- [ ] 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - **Easy** (78.6%)
+
+Page 4
+- [ ] 305. [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) - **Hard** (40.0%)
+- [ ] 361. [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) - **Medium** (52.0%)
+- [ ] 291. [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) - **Medium** (48.5%)
+- [ ] 332. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) - **Hard** (43.4%)
+- [ ] 341. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) - **Medium** (65.2%)
+- [ ] 267. [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) - **Medium** (42.0%)
+- [ ] 253. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) - **Medium** (51.9%)
+- [ ] 262. [Trips and Users](https://leetcode.com/problems/trips-and-users/) - **Hard** (37.0%)
+- [ ] 297. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - **Hard** (58.3%)
+- [ ] 273. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) - **Hard** (34.3%)
+- [ ] 269. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) - **Hard** (36.4%)
+- [ ] 362. [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) - **Medium** (69.0%)
+- [ ] 286. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - **Medium** (62.6%)
+- [ ] 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) - **Hard** (36.0%)
+- [ ] 301. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) - **Hard** (48.9%)
+- [ ] 247. [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) - **Medium** (52.9%)
+- [ ] 315. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - **Hard** (42.7%)
+- [ ] 254. [Factor Combinations](https://leetcode.com/problems/factor-combinations/) - **Medium** (50.1%)
+- [ ] 243. [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) - **Easy** (65.8%)
+- [ ] 340. [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) - **Medium** (49.3%)
+- [ ] 329. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) - **Hard** (54.9%)
+- [ ] 354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) - **Hard** (37.2%)
+- [ ] 295. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - **Hard** (53.0%)
+- [ ] 246. [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) - **Easy** (47.6%)
+- [ ] 312. [Burst Balloons](https://leetcode.com/problems/burst-balloons/) - **Hard** (60.6%)
+- [ ] 358. [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) - **Hard** (39.3%)
+- [ ] 378. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - **Medium** (63.2%)
+- [ ] 279. [Perfect Squares](https://leetcode.com/problems/perfect-squares/) - **Medium** (55.4%)
+- [ ] 347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - **Medium** (64.1%)
