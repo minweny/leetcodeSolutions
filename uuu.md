@@ -16,7 +16,7 @@
 | [x]   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 55.7% | Hard | 14 |
 | [x]   | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 42.3% | Medium | 15 |
 | [x]   | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 64.1% | Easy | 16 |
-| [ ]   | [15. 3Sum](https://leetcode.com/problems/3sum/) | 36.4% | Medium | 17 |
+| [x]   | [15. 3Sum](https://leetcode.com/problems/3sum/) | 36.4% | Medium | 17 |
 | [ ]   | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 35.2% | Medium | 18 |
 | [ ]   | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 52.8% | Medium | 19 |
 | [ ]   | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 63.7% | Hard | 20 |
