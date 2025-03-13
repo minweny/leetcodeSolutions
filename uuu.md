@@ -18,7 +18,7 @@
 | [x]   | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 64.1% | Easy | 16 |
 | [x]   | [15. 3Sum](https://leetcode.com/problems/3sum/) | 36.4% | Medium | 17 |
 | [x]   | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 35.2% | Medium | 18 |
-| [ ]   | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 52.8% | Medium | 19 |
+| [x]   | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 52.8% | Medium | 19 |
 | [ ]   | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 63.7% | Hard | 20 |
 | [ ]   | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 29.8% | Medium | 21 |
 | [ ]   | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | 72.9% | Medium | 22 |
