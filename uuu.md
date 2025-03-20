@@ -20,7 +20,7 @@
 | [x]   | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 35.2% | Medium | 18 |
 | [x]   | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 52.8% | Medium | 19 |
 | [x]   | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 63.7% | Hard | 20 |
-| [ ]   | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 29.8% | Medium | 21 |
+| [x]   | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 29.8% | Medium | 21 |
 | [ ]   | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | 72.9% | Medium | 22 |
 | [ ]   | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 46.6% | Medium | 23 |
 | [ ]   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 66.2% | Easy | 24 |
