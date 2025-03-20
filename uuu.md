@@ -22,7 +22,7 @@
 | [x]   | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 63.7% | Hard | 20 |
 | [x]   | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 29.8% | Medium | 21 |
 | [x]   | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | 72.9% | Medium | 22 |
-| [ ]   | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 46.6% | Medium | 23 |
+| [x]   | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 46.6% | Medium | 23 |
 | [ ]   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 66.2% | Easy | 24 |
 | [ ]   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 57.1% | Medium | 25 |
 | [ ]   | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | 42.9% | Medium | 26 |
