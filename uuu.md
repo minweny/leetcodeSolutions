@@ -42,7 +42,7 @@
 Page 2
 - [x] 68. [Text Justification](https://leetcode.com/problems/text-justification/) - **Hard** (47.1%)
 - [x] 79. [Word Search](https://leetcode.com/problems/word-search/) - **Medium** (44.6%)
-- [ ] 126. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) - **Hard** (27.1%)
+- [x] 126. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) - **Hard** (27.1%)
 - [x] 127. [Word Ladder](https://leetcode.com/problems/word-ladder/) - **Hard** (41.8%)
 - [ ] 91. [Decode Ways](https://leetcode.com/problems/decode-ways/) - **Medium** (36.1%)
 - [ ] 76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) - **Hard** (44.7%)
