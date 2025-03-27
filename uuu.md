@@ -44,7 +44,7 @@ Page 2
 - [x] 79. [Word Search](https://leetcode.com/problems/word-search/) - **Medium** (44.6%)
 - [x] 126. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) - **Hard** (27.1%)
 - [x] 127. [Word Ladder](https://leetcode.com/problems/word-ladder/) - **Hard** (41.8%)
-- [ ] 91. [Decode Ways](https://leetcode.com/problems/decode-ways/) - **Medium** (36.1%)
+- [x] 91. [Decode Ways](https://leetcode.com/problems/decode-ways/) - **Medium** (36.1%)
 - [ ] 76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) - **Hard** (44.7%)
 - [ ] 97. [Interleaving String](https://leetcode.com/problems/interleaving-string/) - **Medium** (41.4%)
 - [ ] 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) - **Medium** (61.2%)
