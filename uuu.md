@@ -52,7 +52,7 @@ Page 2
 - [x] 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **Easy** (54.8%)
 - [x] 131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - **Medium** (71.4%)
 - [x] 128. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - **Medium** (47.2%)
-- [ ] 64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) - **Medium** (65.8%)
+- [x] 64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) - **Medium** (65.8%)
 - [ ] 118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - **Easy** (76.4%)
 - [ ] 78. [Subsets](https://leetcode.com/problems/subsets/) - **Medium** (80.3%)
 - [ ] 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - **Easy** (53.3%)
