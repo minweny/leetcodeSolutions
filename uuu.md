@@ -56,7 +56,7 @@ Page 2
 - [x] 118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - **Easy** (76.4%)
 - [x] 78. [Subsets](https://leetcode.com/problems/subsets/) - **Medium** (80.3%)
 - [x] 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - **Easy** (53.3%)
-- [ ] 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - **Easy** (58.6%)
+- [x] 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - **Easy** (58.6%)
 - [ ] 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) - **Easy** (40.0%)
 - [ ] 124. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - **Hard** (40.9%)
 - [ ] 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **Medium** (51.8%)
