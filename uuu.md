@@ -58,7 +58,7 @@ Page 2
 - [x] 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - **Easy** (53.3%)
 - [x] 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - **Easy** (58.6%)
 - [x] 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) - **Easy** (40.0%)
-- [ ] 124. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - **Hard** (40.9%)
+- [x] 124. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - **Hard** (40.9%)
 - [ ] 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **Medium** (51.8%)
 - [ ] 122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - **Medium** (68.8%)
 - [ ] 102. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - **Medium** (69.8%)
