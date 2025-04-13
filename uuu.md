@@ -68,7 +68,7 @@ Page 2
 Page 3
 - [x] 212. [Word Search II](https://leetcode.com/problems/word-search-ii/) - **Hard** (37.0%)
 - [x] 174. [Dungeon Game](https://leetcode.com/problems/dungeon-game/) - **Hard** (39.1%)
-- [ ] 146. [LRU Cache](https://leetcode.com/problems/lru-cache/) - **Medium** (44.4%)
+- [x] 146. [LRU Cache](https://leetcode.com/problems/lru-cache/) - **Medium** (44.4%)
 - [ ] 200. [Number of Islands](https://leetcode.com/problems/number-of-islands/) - **Medium** (61.6%)
 - [ ] 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) - **Medium** (45.3%)
 - [ ] 218. [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) - **Hard** (43.6%)
