@@ -71,7 +71,7 @@ Page 3
 - [x] 146. [LRU Cache](https://leetcode.com/problems/lru-cache/) - **Medium** (44.4%)
 - [x] 200. [Number of Islands](https://leetcode.com/problems/number-of-islands/) - **Medium** (61.6%)
 - [x] 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) - **Medium** (45.3%)
-- [ ] 218. [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) - **Hard** (43.6%)
+- [x] 218. [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) - **Hard** (43.6%)
 - [ ] 224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/) - **Hard** (44.8%)
 - [ ] 139. [Word Break](https://leetcode.com/problems/word-break/) - **Medium** (47.9%)
 - [ ] 140. [Word Break II](https://leetcode.com/problems/word-break-ii/) - **Hard** (52.9%)
